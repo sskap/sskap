@@ -1,4 +1,4 @@
-- meu nome e maria
+- meu apelido aqui e sskap
 - sou aluna de pensamento computacional
 - tenho interesse em trabalha com o github
 - tenho interesse em posta meus trabalhos na plataforma
