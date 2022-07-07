@@ -1,0 +1,4 @@
+- meu nome e maria
+- sou aluna de pensamento computacional
+- tenho interesse em trabalha com o github
+- tenho interesse em posta meus trabalhos na plataforma
